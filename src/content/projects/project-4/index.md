@@ -1,31 +1,20 @@
 ---
-title: "Project Four"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 15 2022"
+title: "Last.FM: Higher or Lower"
+summary: "A personalized music trivia game"
+date: "January 01 2022"
 draft: false
 tags:
-- React
+- ⭐FAVORITE
 - Javascript
-- StyleX
+- APIs
+- Databases
+- HTML & CSS
+icon: "lastfm_icon.png"
+repoUrl: https://github.com/sinndu/lasfm_higherorlower
+image1: lastfm/lastfm1.png
+image2: lastfm/lastfm2.PNG
+image3: lastfm/lastfm3.PNG
+image4: lastfm/lastfm4.PNG
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
-
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
-
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
-
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
-
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. 
-
-Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. 
-
-Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. 
-Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Last.FM Higher or Lower is a web game I developed solo, using Last.FM's music library and user database API to create a personalized experience. The game fetches your personal listening data and challenges you to guess whether you’ve listened to one song more or less than another. I built the project using HTML, CSS, and JavaScript, focusing on integrating APIs and providing an interactive and engaging user experience.

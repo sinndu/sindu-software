@@ -1,15 +1,23 @@
 ---
-title: "Project Two"
-summary: "Lorem ipsum dolor sit amet"
-date: "Mar 17 2022"
+title: "Procedural 3D Block World"
+summary: "A procedural world generator written in C#"
+date: "May 01 2024"
 draft: false
 tags:
-- Svelte
-- Sveltekit
-- Typescript
-- Tailwind
+- ⭐FAVORITE
+- MonoGame
+- C#
+- XNA
+icon: blockgame/blockworld_icon.png
+repoUrl: https://github.com/robotsledbysindualexandsean/blockgame
+image1: blockgame/blockworld1.png
+image2: blockgame/blockgame1.PNG
+image3: blockgame/blockgame2.PNG
+image4: blockgame/blockgame3.PNG
+image5: blockgame/blockgame4.PNG
+image6: blockgame/blockgame5.PNG
+image7: blockgame/blockgame6.PNG
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Vitae ultricies leo integer malesuada nunc vel risus commodo viverra. Adipiscing enim eu turpis egestas pretium. Euismod elementum nisi quis eleifend quam adipiscing. In hac habitasse platea dictumst vestibulum. Sagittis purus sit amet volutpat. Netus et malesuada fames ac turpis egestas. Eget magna fermentum iaculis eu non diam phasellus vestibulum lorem. Varius sit amet mattis vulputate enim. Habitasse platea dictumst quisque sagittis. Integer quis auctor elit sed vulputate mi. Dictumst quisque sagittis purus sit amet.
+Procedural 3D Block World began simply with the rendering of a single block, then evolved into an expansive engine capable of generating entire worlds. Developed over a month in MonoGame with C#, the engine now handles hundreds of thousands of chunks and millions of blocks while maintaining a stable framerate. Inspired by games like Minecraft, I implemented optimizations such as vertex chunking and face culling, allowing efficient world-building. Key features include a flood-fill lighting engine, Perlin noise terrain generation, and a dungeon generator, paired with a sister program for custom room design. The project also includes an inventory and entity system, setting the stage for potential gameplay extensions.
