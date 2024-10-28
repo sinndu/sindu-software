@@ -3,7 +3,7 @@ import type { Site, Page, Links, Socials } from "@types"
 // Global
 export const SITE: Site = {
   TITLE: "Sindusara Munasinghe",
-  DESCRIPTION: "My game development & design portfolio.",
+  DESCRIPTION: "My software development & design portfolio.",
   AUTHOR: "Sindusara Munasinghe",
 }
 
