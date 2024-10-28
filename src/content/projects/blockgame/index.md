@@ -1,7 +1,7 @@
 ---
 title: "Procedural 3D Block World"
 summary: "A procedural world generator written in C#"
-date: "May 01 2024"
+date: "April 01 2024"
 draft: false
 tags:
 - MonoGame
