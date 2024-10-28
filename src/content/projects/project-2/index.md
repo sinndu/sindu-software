@@ -1,7 +1,7 @@
 ---
-title: "Procedural 3D Block World"
-summary: "A procedural world generator written in C#"
-date: "May 01 2024"
+title: "IMDB Database System"
+summary: "A system, sorter, and searcher, for IMDB's movie and actor database."
+date: "September 01 2022"
 draft: false
 tags:
 - ⭐FAVORITE
