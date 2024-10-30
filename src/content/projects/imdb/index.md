@@ -7,7 +7,7 @@ tags:
 - Javascript
 - HTML & CSS
 - Data Structures & Algorithms
-icon: blockgame/blockworld1_icon.png
+icon: imdb/imdb_icon.png
 repoUrl: https://github.com/sinndu/imdb-database
 image1: imdb/imdb1.png
 image2: imdb/imdb2.png

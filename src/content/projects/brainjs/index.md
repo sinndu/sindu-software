@@ -9,7 +9,7 @@ tags:
 - HTML & CSS
 - brain.js
 - APIs
-icon: "snake_icon.png"
+icon: "brainjs/brainjs_icon.png"
 repoUrl: https://github.com/sinndu/brainjsCircleOrSquare
 ---
 
